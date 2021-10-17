@@ -1,0 +1,21 @@
+#spin{
+margin-bottom: 200px;
+}
+#wheel{
+    /* background-color: burlywood; */
+    margin: 100px;
+    width: 136px;
+    height: 130px;
+    margin-top: 42px;
+    border-radius: 100px;
+}
+.segment{
+    width: 100px;
+    transform: rotate(20deg);
+    position: absolute;
+    margin-top: 55px;
+    margin-left: 20px;
+    border: solid rgb(93, 27, 27) 1px;
+    
+    
+}
